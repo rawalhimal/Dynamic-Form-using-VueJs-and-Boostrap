@@ -1,0 +1,39 @@
+{
+    "fields": [
+      {
+        "label": "Full Name",
+        "name": "FulllName",
+        "type": "text"
+      },
+      {
+        "label": "Email",
+        "name": "Email",
+        "type": "email"
+      },
+      {
+        "label": "Mobile Number",
+        "name": "Phone",
+        "type": "tel"
+      },
+      {
+        "label": "Owner",
+        "name": "owner",
+        "type": "text"
+      },
+      {
+        "label": "Date",
+        "name": "startDate",
+        "type": "date"
+      },
+      {
+        "label": "Time",
+        "name": "startTime",
+        "type": "time"
+      },
+      {
+        "label": "Notes",
+        "name": "Notes",
+        "type": "textarea"
+      }
+    ]
+  }
